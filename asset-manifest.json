@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-project/static/css/main.d95ac1e3.css",
+    "main.js": "/portfolio-project/static/js/main.22371c53.js",
+    "static/js/453.5c16b389.chunk.js": "/portfolio-project/static/js/453.5c16b389.chunk.js",
+    "static/media/Engineering.png": "/portfolio-project/static/media/Engineering.bb85ec372a95b23d6891.png",
+    "static/media/Business and Management.png": "/portfolio-project/static/media/Business and Management.ea2138ffd1caf27577f2.png",
+    "static/media/test.png": "/portfolio-project/static/media/test.64d32fd4a5e2a92fb7fd.png",
+    "static/media/main logo.png": "/portfolio-project/static/media/main logo.8ba3666f603956d979a5.png",
+    "static/media/biochemistry.png": "/portfolio-project/static/media/biochemistry.3dc585d32aafe5f11440.png",
+    "static/media/Psychology.png": "/portfolio-project/static/media/Psychology.dc1e934580cd6689b62a.png",
+    "static/media/Computer Science and Information Technology.png": "/portfolio-project/static/media/Computer Science and Information Technology.386ad58a962dd4681cc1.png",
+    "static/media/Nursing.png": "/portfolio-project/static/media/Nursing.540b0503f888ad063300.png",
+    "index.html": "/portfolio-project/index.html",
+    "main.d95ac1e3.css.map": "/portfolio-project/static/css/main.d95ac1e3.css.map",
+    "main.22371c53.js.map": "/portfolio-project/static/js/main.22371c53.js.map",
+    "453.5c16b389.chunk.js.map": "/portfolio-project/static/js/453.5c16b389.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95ac1e3.css",
+    "static/js/main.22371c53.js"
+  ]
+}
